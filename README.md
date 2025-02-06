@@ -48,4 +48,4 @@
 
 - **Email:** [bandurayv@yandex.ru](mailto:bandurayv@yandex.ru)
 - **Telegram:** [@BandYuraV](https://t.me/BandYuraV)
-- *(При желании можно добавить ссылки на LinkedIn или другие соцсети)*
+- **GinHub:** [GreenBandYt](https://github.com/GreenBandYt)
